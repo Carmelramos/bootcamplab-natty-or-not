@@ -1,51 +1,22 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+🎬 Mini Projeto – Foto Animada com IA (HeyGen)
+📒 Descrição
 
-## 🚀 Introdução
+Este projeto consiste na criação de um vídeo curto onde uma foto minha foi animada utilizando IA para falar um texto baseado em um versículo bíblico. A proposta foi demonstrar como tecnologias de geração de vídeo podem transformar uma imagem estática em uma apresentação natural, mantendo expressões realistas e movimentos fiéis.
 
-> Woooow! Look at this 👀
+🤖 Tecnologias Utilizadas
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+HeyGen – Para animar a foto, gerar movimentos faciais e sincronizar a fala com o texto.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+ChatGPT – Para ajudar a definir o tema, escrever o texto simples e curto usado no vídeo.
 
-### Objetivos
+🧐 Processo de Criação
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+Primeiro, escolhi um versículo e pedi apoio ao ChatGPT para criar uma mensagem curta e clara. Depois selecionei uma foto minha e importei para o HeyGen. Com a ferramenta, configurei a animação do rosto, a sincronia labial e a narração. Ajustei detalhes como entonação e velocidade da voz. Apesar de a voz ainda precisar de alguns refinamentos para parecer totalmente natural, os movimentos faciais ficaram extremamente fiéis, resultando em um vídeo coerente e realista.
 
-### Template
+🚀 Resultados
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+O vídeo final mostra minha própria imagem falando o texto com naturalidade visual. As expressões faciais ficaram muito bem reproduzidas, passando autenticidade. Mesmo com pequenos ajustes pendentes na voz, o resultado geral ficou sólido e demonstra perfeitamente o potencial de transformar fotos comuns em vídeos realistas usando IA.
 
-## 📒 Descrição
-Breve descrição do seu projeto
+💭 Reflexão
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Criar algo “natural” com IA é sempre um equilíbrio entre tecnologia e intenção. A animação do rosto ficou surpreendentemente realista, mostrando o avanço das ferramentas de vídeo generativo. Mesmo que a voz ainda precise evoluir, a experiência reforça como a IA pode ampliar possibilidades de comunicação e criatividade a partir de algo simples como uma foto.
